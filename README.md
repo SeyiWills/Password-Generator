@@ -1,2 +1,4 @@
 # Password-Generator
- generators a non-random and random password
+ generator a non-random and random password
+
+ Will keep updating to make it advance
